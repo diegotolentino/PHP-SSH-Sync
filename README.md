@@ -3,6 +3,12 @@ PHP SSH Sync
 
 Script for remote php/ssh backup and copy.
 
+Requirements
+-------------
+
+SSH2 lib see http://www.php.net/manual/en/ssh2.installation.php
+
+
 Configuration
 -------------
 
